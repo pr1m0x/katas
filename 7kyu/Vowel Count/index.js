@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/54ff3102c1bad923760001f3/solutions/javascript
+
 function getCount(str) {
   let vowelsCount = 0;
   const vowels = ['a', 'e', 'i', 'o', 'u'];
