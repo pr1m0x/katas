@@ -1,4 +1,4 @@
-// https://www.codewars.com/kata/54ff3102c1bad923760001f3/solutions/javascript
+// https://www.codewars.com/kata/54ff3102c1bad923760001f3
 
 function getCount(str) {
   let vowelsCount = 0;
@@ -9,4 +9,4 @@ function getCount(str) {
   return vowelsCount;
 }
 
-console.log(getCount('abracadabra'));
+// (getCount("abracadabra"), 5)
