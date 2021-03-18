@@ -1,2 +1,2 @@
 ## 🥋 Solving Katas form codewars.com
-- Sharing my kata solutions
+- Just me sharing kata solutions from codewars
