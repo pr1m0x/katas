@@ -13,7 +13,7 @@ function moreZeros(s) {
     ) {
       arr.push(char);
     }
-  }, []);
+  });
   return arr;
 }
 
