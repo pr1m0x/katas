@@ -1,9 +1,3 @@
-// return only the letters that has more zeros than ones
-
-// remove duplicates
-// return null
-// return []
-
 function moreZeros(s) {
   const arr = [];
 
