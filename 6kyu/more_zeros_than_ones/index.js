@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/5d41e16d8bad42002208fe1a
+
 function moreZeros(s) {
   const arr = [];
 
