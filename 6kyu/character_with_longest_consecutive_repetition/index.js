@@ -20,4 +20,4 @@ function longestRepetition(s) {
   return [longestCharacter, longestRepition];
 }
 
-console.log(longestRepetition(''));
+console.log(longestRepetition('bbbaaabaaaa"'));
